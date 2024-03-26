@@ -1,0 +1,418 @@
+    1  sudo apt-update
+    2  sudo apt update
+    3  sudo apt-get install waterfox
+    4  waterfox
+    5  sudo apt-get install flatpak
+    6  sudo apt dist-upgrade
+    7  тущауеср
+    8  sudo apt install neofetch
+    9  neofetch
+   10  sudo apt-get install make gcc linux-headers-$(uname -r) build-essential git
+   11  sudo modprobe -rv rtw_8852ae~
+   12  flathub 
+   13  sudo apt installl flatpka
+   14  sudo apt installl flatpack
+   15  sudo apt install flatpack
+   16  sudo apt install flatpak
+   17  sudo apt install flathub
+   18  flatpak install flathub com.jetbrains.PyCharm-Community~
+   19  flatpak run comjetbrains.PyCharm-Community
+   20  flatpak install flathub com.jetbrains.IntelliJ-IDEA-Community
+   21  flatpak install flathub net.waterfox.waterfox
+   22  flatpak install flathub com.visualstudio.code
+   23  mkdir sudo apt install git
+   24  ls
+   25  rm -r sudo apt install git
+   26  ls
+   27  sudo apt install git
+   28  git --version
+   29  mkdir git-course
+   30  cd ./git-course
+   31  git init
+   32  nano LMAO.py
+   33  python3 LMAO.py
+   34  ls -l
+   35  ls -a
+   36  git status
+   37  git add test.py
+   38  git add LMAO.py
+   39  ls
+   40  git status
+   41  git rm --cached LMAO.py
+   42  git status
+   43  ls
+   44  python3
+   45  python3 main.py
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit -m "first commit"
+   50  git config --global user.email "peter30260@gmail.com"
+   51  git config --global user.name "Пётр"
+   52  git commit -m "first commit"
+   53  ls
+   54  cd git-course
+   55  git config --list
+   56  python3 lol.py
+   57  ls
+   58  python3 main.py
+   59  git status
+   60  git commit -m "first commit"
+   61  git commit -m "second commit"
+   62  git status
+   63  git commit -m "seconxfxxxd commit"
+   64  git status
+   65  git commit -a "Gayest shit"
+   66  git status
+   67  git commit "first project added cock"
+   68  git commit -m "first commit added cock"
+   69  git add LMAO.py
+   70  git commit "first project added cock"
+   71  git status
+   72  git branches
+   73  git branch
+   74  git status
+   75  git commit "first project"
+   76  git commit -m "first project"
+   77  branch
+   78  nano readme.txt
+   79  git status
+   80  branch
+   81  git branch
+   82  git checkout new_branch
+   83  git checkout new_branch readme
+   84  git checkout new_branch readme.txt
+   85  ls
+   86  git add readme.txt
+   87  git checkout new_branch readme.txt
+   88  git checkout readme
+   89  ls
+   90  git status
+   91  git checkout readme
+   92  gigit checkout -b readme
+   93  git checkout -b readme
+   94  git status
+   95  git commit -m readme.txt
+   96  git branch
+   97  touch readme.md
+   98  ls
+   99  git commit -m "another readme"
+  100  git add readme.md
+  101  git commit -m "another readme"
+  102  git branch master
+  103  git checkout master
+  104  git mege
+  105  git merge
+  106  git merge readme
+  107  git branch
+  108  git status
+  109  sudo apt install gnome
+  110  cd ../
+  111  history > $USER.txt
+  112  sudo apt install gnome
+  113  sudo dpkg --configure -a
+  114  sudo apt install gnome
+  115  startx
+  116  apt --help
+  117  sudo apt remove firefox
+  118  sudo apt-get install GitKraken
+  119  wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
+  120  sudo apt install gitkraken-amd64.deb
+  121  sudo apt install gitkraken-amd64
+  122  sudo apt install gitkraken-amd64.deb
+  123  sudo apt install gitkraken
+  124  sudo apt install spotify-desktop
+  125  flatpak install flathub com.spotify.Client
+  126  sudo apt update -y
+  127  sudo apt install postgresql postgresql-contrib
+  128  sudo systemctl status postgresql
+  129  sudo add-apt-repository ppa:serge-rider/dbeaver-ce
+  130  sudo apt-get update
+  131  sudo apt-get install dbeaver-ce
+  132  sudo -u postgres psql 
+  133  historu $USER >> history.txt
+  134  history $USER >> history.txt
+  135  history $USER>>history.txt
+  136  history $USER 60 >>history.txt
+  137  history 60  $USER >>history.txt
+  138  history 60  $USER
+  139  history 1  $USER
+  140  history  $USER
+  141  history  $USER 1
+  142  mkdir new_git_project
+  143  ls new_git_project
+  144  ls new_git_project/project2
+  145  cd new_git_project/project2
+  146  touch main.py
+  147  python3 main.py
+  148  ls -l
+  149  ls
+  150  cd git-course
+  151  ls -l
+  152  git config --global user.email "peter30260@gmail.com"
+  153  git config --list
+  154  git config --global user.email "Caductious"
+  155  git config --list
+  156  git config --global user.email "peter30260@gmail.com"
+  157  git config --global user.name "Caductious"
+  158  git config --list
+  159  git remote add origin git@github.com:CAductious/parkour.git
+  160  git remote set-url origin git@github.com:Caductious/parkour.git
+  161  git remote add origin git@github.com:Caductious/parkour.git
+  162  git remote remove origin
+  163  git remote add origin git@github.com:Caductious/parkour.git
+  164  git remote set-url origin git@github.com:Caductious/parkour.git
+  165  ssh-keygen
+  166  cp ~/.ssh/id_rsa.pub ~/id_rsa.txt
+  167  ls
+  168  cd ../
+  169  ls
+  170  cd git-course
+  171  git status
+  172  git push -u origin main
+  173  git push -u origin master
+  174  git clone git@github.com:Caductious/parkour.git
+  175  ls
+  176  cd parkour
+  177  ls
+  178  nano LMAO.py
+  179  git status
+  180  git add .
+  181  git commit -m "add new"
+  182  git push -u origin master
+  183  cd ../
+  184  ls
+  185  cat LMAO.py
+  186  git pull
+  187  cat LMAO.py
+  188  lspci -nnk | grep -A3 net
+  189  sudo lspci -nnk | grep -A3 net
+  190  lspci
+  191  lshw -C network
+  192  sudo lshw -C network
+  193  uname -r
+  194  wget
+  195  sudo apt update
+  196  sudo apt upgrade
+  197  reboot
+  198  uname -r
+  199  sudo apt remove gnome
+  200  apt purge aisleriot cheese evolution five-or-more four-in-a-row gnome-2048 gnome-calendar gnome-chess gnome-clocks gnome-color-manager gnome-contacts gnome-disk-utility gnome-documents gnome-klotski gnome-logs gnome-mahjongg gnome-maps gnome-mines gnome-music gnome-nibbles gnome-robots gnome-sound-recorder gnome-shell-extension-prefs gnome-sudoku gnome-taquin gnome-tetravex gnome-todo gnome-tweaks gnome-weather hitori iagno im-config libreoffice-calc libreoffice-draw libreoffice-impress libreoffice-writer lightsoff malcontent nautilus quadrapassel rhythmbox seahorse shotwell simple-scan software-properties-gtk swell-foop synaptic tali transmission-gtk
+  201  sudo apt install libre-office-writet
+  202  sudo apt install libreoffice-writet
+  203  sudo apt install libreoffice-writer
+  204  free
+  205  free -h
+  206  free
+  207  free -h
+  208  top
+  209  top -h
+  210  htop
+  211  top
+  212  sudo systemctl enable tlp --now
+  213  git clone https://github.com/AdnanHodzic/auto-cpufreq.git
+  214  cd auto-cpufreq && sudo ./auto-cpufreq-installer
+  215  sudo systemctl autocpufreq
+  216  # systemctl enable --now auto-cpufreq 
+  217  # systemctl status auto-cpufreq 
+  218  systemctl
+  219  systemctl status
+  220  systemctl status auto-cpufreq
+  221  sudo systemctl status auto-cpufreq
+  222  sudo systemctl status auto-cpufreq 
+  223  auto-cpufreq help
+  224  auto-cpufreq --help
+  225  auto-cpufreq --minitor
+  226  auto-cpufreq --monitor
+  227  sudo auto-cpufreq --monitor
+  228  cd
+  229  mkdir ~/git/test
+  230  ls
+  231  cd test
+  232  mkdir git
+  233  mkdir ~/git/test
+  234  cd ~/git/test
+  235  git clone --single-branch --branch master https://github.com/Caductious/0_git_basics.git .
+  236  nano ~/git/test/backup.sh
+  237  backup.sh
+  238  ./backup.sh
+  239  chmod +x ./backup.sh
+  240  ./backup.sh
+  241  git status
+  242  git add
+  243  git add .
+  244  git status
+  245  git commit
+  246  git commit -m "Added backup.sh"
+  247  git push
+  248  git remote set-url origin git@github.com:Caductious/0_git_basics.git
+  249  git push
+  250  nano backup.sh
+  251  git add
+  252  nano backup.sh
+  253  git add
+  254  nano backup.sh
+  255  git status
+  256  git add .
+  257  git commit -m "new echo"
+  258  nano backup.sh
+  259  git add .
+  260  git commit -m "Жесть"
+  261  ./backup.sh
+  262  git log
+  263  git checkout a5766a2295501f0c429839bdcc079102e8d09911
+  264  git log oneline
+  265  git log --oneline
+  266  git checkout c4453ce
+  267  git log --oneline
+  268  bash backup.sh
+  269  cd
+  270  git clone https://github.com/Caductious/1_echo_server
+  271  cd 1_echo_server
+  272  shutdown now
+  273  cd 1_echo_server
+  274  ls
+  275  nano client.py
+  276  python3 client.py
+  277  nano client.py
+  278  ls
+  279  cd 1_echo_server
+  280  ls
+  281  nano server.py
+  282  git pull
+  283  cd ../
+  284  rm -r 1_echo_server
+  285  rm -R 1_echo_server
+  286  rm 1_echo_server
+  287  rm -R 1_echo_server
+  288  git clone https://github.com/Gendalf71/1_echo_server~
+  289  ls
+  290  sudo rm -R 1_echo_server
+  291  ls
+  292  git clone https://github.com/Caductious/1_echo_server
+  293  ls
+  294  cd 1_echo_server
+  295  ls
+  296  nano server.py
+  297  python3 server.py
+  298  nano server.py
+  299  python3 server.py
+  300  nano server.py
+  301  python3 server.py
+  302  cd 1_echo_server
+  303  python3 server.py
+  304  exit
+  305  python3 server.py
+  306  cd 1_echo_server
+  307  python3 server.py
+  308  cd 1_echo_server
+  309  python3 server.py
+  310  exit
+  311  /bin/python /home/caduct/1_echo_server/server.py
+  312  cd 1_echo_server
+  313  python3 server.py
+  314  zxc
+  315  python3 server.py
+  316  python3 client.py
+  317  cd 1_echo_server
+  318  python3 client.py
+  319  shutdown now
+  320  mkdir tred
+  321  cd tred
+  322  nano tred.py
+  323  cd ../
+  324  cd tred
+  325  python3 tred.py
+  326  cp tred.py tred2.py
+  327  ls
+  328  nano tred2.py
+  329  python3 tred2.py
+  330  nano tred2.py
+  331  cp tred2.py cp tred1.py
+  332  cp tred2.py tred1.py
+  333  nano tred2.py
+  334  rm tred2.py
+  335  cp tred tred2.py
+  336  ls
+  337  cp tred.py tred2.py
+  338  nano tred2.py
+  339  python3 tred2.py
+  340  nano tred2.py
+  341  python3 tred2.py
+  342  nano tred2.py
+  343  python3 tred2.py
+  344  nano tred2.py
+  345  python3 tred2.py
+  346  nano tred2.py
+  347  nano tred1.py
+  348  python3 tred1.py
+  349  nano tred1.py
+  350  python3 tred1.py
+  351  nano tred1.py
+  352  mkdir git_terminal
+  353  git init
+  354  nano hello.py
+  355  python3 hello.py
+  356  git status
+  357  ls
+  358  rm -r .git
+  359  cd git_terminal
+  360  cp ~/hello.py hello.py
+  361  ls
+  362  git init
+  363  git stats
+  364  git status
+  365  git add
+  366  git add .
+  367  git commit -m "created hello.py"
+  368  nano what.py
+  369  nano hello.py
+  370  python3 hello.py
+  371  ls
+  372  nano hello.py
+  373  python3 hello.py
+  374  nano what.py
+  375  nano hello.py
+  376  python3 hello.py
+  377  nano what.py
+  378  python3 hello.py
+  379  nano what.py
+  380  nano hello.py
+  381  python3 hello.py
+  382  git commit -m "New greeting"
+  383  git add .
+  384  git commit -m "New greeting"
+  385  nano readme.txt
+  386  git add .
+  387  git commit -m "New bad readme"
+  388  git log
+  389  git status
+  390  nano readme
+  391  nano readme.txt
+  392  git commit -am "Automatic commit yipeee!"
+  393  git branch
+  394  git checkout -b termianl
+  395  nano new_readme.txt
+  396  git commit -am "Added new readme to this branch"
+  397  git add .
+  398  git commit -am "Added new readme to this branch"
+  399  git log
+  400  git checkout master
+  401  git merge termianl
+  402  git log
+  403  git push
+  404  git remote add origin git@github.com:caductious/git_terminal.git
+  405  git branch -M master
+  406  git push -u origin master
+  407  git remote add origin git@github.com:Caductious/git_terminal.git~
+  408  git remote add github git@github.com:Caductious/git_terminal.git~
+  409  git push -u github master
+  410  git branch -M master
+  411  git push -u github master
+  412  git status
+  413  git branch -M main
+  414  git push -u github main
+  415  git push -u origin main
+  416  history
+  417  histor > terminal_git.txt
+  418  history > terminal_git.txt
